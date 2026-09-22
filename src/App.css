@@ -1,0 +1,4 @@
+/* Removing default App.css styles since we use scoped css and index.css */
+.app-container {
+  width: 100%;
+}
