@@ -15,7 +15,7 @@ const experiences = [
   {
     role: 'Sales Supervisor',
     company: 'Puma Pvt Ltd, Chennai',
-    period: 'Oct 2022 – Dec 2024',
+    period: 'Oct 2022 – Aprl 2025',
     description: [
       'Supervised a team of sales associates, ensuring efficient store operations.',
       'Managed schedules, tracked inventory, and compiled sales reports using Microsoft Excel.'
